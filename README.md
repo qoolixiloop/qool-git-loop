@@ -128,10 +128,14 @@
 >
 > | What the link provides ('Ctrl-click' to open in new tab) | Link to website
 > |:---------------------------------------- | :----------------------------------------| 
+> | `relevant links to websites:`            |
 > | shows normal workflow. Sth. to start with | [git guide][1]  
 > | pro Git. Online book that covers everything | [git scm][2]  
 > | very good introduction  | [Gitmagic, Chapter 2. Basic Tricks][3]  
 > | has already answers most of your own questions | [Stackoverflow][4]  
+> | `relavant links to my wiki pages:`       |
+> | - (empty list)                           |
+> |                                          |
 >
 > There is also an extensive documentation stored locally on your computer. You can access it with:  
 >          $ git help <command>  
