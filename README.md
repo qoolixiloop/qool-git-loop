@@ -15,7 +15,7 @@
 > ⏳
 >
 > #### Short introduction> 
-> Git is a version control system that can be used for any kind of documents not just for software related projects. But unlike all the other version control system it does things differently on a concepual level and it has its very own terminology. The following link explains the basic concept and terms with respect to file status (modified, staged, committed) file state tracked (not in last snapshot AND not staged in the meantime), untracked (in last snapshot: unmodified, modified, staged) and to main sections (working directory, staging area, repository .git)  
+> Git is a version control system, that can be used for any kind of documents not just for software related projects. But unlike all the other version control system it does things differently on a concepual level and it has its very own terminology. The following link explains the basic concept and terms with respect to file status (modified, staged, committed) file state tracked (not in last snapshot AND not staged in the meantime), untracked (in last snapshot: unmodified, modified, staged) and to main sections (working directory, staging area, repository .git)  
 > (https://git-scm.com/book/en/v2/Getting-Started-Git-Basic, shttps://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter)
 > * Git resides in the folder **.git** in the parent folder of your project. There it has its own filesystem with database.
 > * Git commands are rather low level and can be used in many different workflows. Therefore, it makes sense to learn it on a workflow level together with a graphical representations. In a nutshell: 
