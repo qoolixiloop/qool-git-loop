@@ -18,108 +18,24 @@
 > Git is a version control system that can be used for any kind of documents not just for software related projects. But unlike all the other version control system it does things differently on a concepual level and it has its very own terminology. The following link explains the basic concept and terms with respect to file status (modified, staged, committed) file state tracked (not in last snapshot AND not staged in the meantime), untracked (in last snapshot: unmodified, modified, staged) and to main sections (working directory, staging area, repository .git)  
 > (https://git-scm.com/book/en/v2/Getting-Started-Git-Basic, shttps://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter)
 > * Git resides in the folder **.git** in the parent folder of your project. There it has its own filesystem with database.
-> * Git commands are rather low level and can be used in many different workflows. Therefore, it makes sense to learn it on a workflow level togehter with a graphical representations. In a nutshell: 
+> * Git commands are rather low level and can be used in many different workflows. Therefore, it makes sense to learn it on a workflow level together with a graphical representations. In a nutshell: 
 > * * The workflow to create a project uses the commands: init and configure.
 >   (https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup ,)
 > * * The main workflow to save your work uses these commands: pull (fetch, merge), add, commit and push. (https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) 
 > * * To undo some of your work you can use: checkout, stash, revert or reset.
 >   (https://opensource.com/article/18/6/git-reset-revert-rebase-commands#comments,
 >   https://opensource.com/life/16/7/how-restore-older-file-versions-git,
->   https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things#_undoing)
-> * * To get history information following commands are useful: status, log, reglog, fetch, diff or difftool. () 
-> * * To save your project under a new name use one of the following: clone, stash, branch or checkout. (https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#ch03-git-branching)
+>   https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+> * * To get history information following commands are useful: status, log, reglog, fetch, diff or difftool. 
+> * * To save your project under a new name, use one of the following: clone, stash, branch or checkout. (https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#ch03-git-branching)
 > * gitignore list (https://github.com/github/gitignore)
 >
->
-> #### Why could you profit from the content of this repository?
-> * Because &&&  
-> but &&&  
->
-> * Because &&&  
-> but &&&  
->
-> * Because &&&  
-> but &&&  
->
-> Did you find anything?  
-> Then please read on. 
->   
-> ⏳
->
-> #### How the qoolixiloop repositories intend to make his friends productive
-> * You will get &&&  
-> &&& to become quickly productive.  
->
-> * You will get &&&  
-> &&& .  
->
-> * You will get the links to official reference pages.  
-> So you won't have to click through your web search engine's top ten search results to get your needed "How to".  
->
-> Does this already sound like Christmas?  
-> Then please read on.  
->
 > ⏳
 > </details>
-
-
-
-
-### 🎁 Download my markdown files
-> The files are not yet ready to be shared.  
->
-> <details>
-> <summary> 📖  show the examples </summary>
-> 🎁
->   
-> 1. **&&&:**   
->
->    * &&&
->
-> 2. **&&&:** 
->
-> 3. **&&&:** 
->
-> 🎁
-> </details>
-
-
-
-
-### 📜 Instructions on how to use .vim and .vimrc
-> The reason why &&&. 
-> Please click the button below. The few steps show, how to install and run &&&. It's easy, five steps and you can start writing &&&
->
-> <details>
-> <summary> 📖  show the instructions </summary>
->
-> 📜
->   
->    * Install &&& on Linux Ubuntu with:  
->         $ sudo apt get  
->    
->    * Move to your folder containing your md files with:  
->         $ cd /my_md_directory/  
->    
->    * Start &&& with:  
->         $ grip my_md_file.md  
->    
->    * Open your file with Vim:  
->         $ vim my_md_file.md  
->    
->    * That's it! 
->
-> * &&& 
->
->📜
-</details>
-
-
 
 
 ### 🌎 Links
 > To share the links of web pages, which present their content in a clear and easy to read manner is one of the main objectives of my repositories. There is no need to reinvent the wheel, because most of the time there are already excellent resources out there, where the reader can find the needed information. But often, even with the help of one's preferred search engine, one ends up spending one's time with searching instead of working.  
-> By clicking the button below you will see the links of my top &&& sites for &&&. If you still struggle with the syntax, then you may consider &&& as described [here][&&&].
 >
 > <details>
 > <summary> 📖  show the links </summary>
@@ -129,10 +45,10 @@
 > | What the link provides ('Ctrl-click' to open in new tab) | Link to website
 > |:---------------------------------------- | :----------------------------------------| 
 > | `relevant links to websites:`            |
-> | shows normal workflow. Sth. to start with | [git guide][1]  
-> | pro Git. Online book that covers everything | [git scm][2]  
-> | very good introduction  | [Gitmagic, Chapter 2. Basic Tricks][3]  
-> | has already answers most of your own questions | [Stackoverflow][4]  
+> | Shows normal workflow. Something to start with | [git guide][1]  
+> | Pro Git. Online book that covers everything | [git scm][2]  
+> | Very good introduction  | [Gitmagic, Chapter 2. Basic Tricks][3]  
+> | Has answers for most of your own questions | [Stackoverflow][4]  
 > | `relavant links to my wiki pages:`       |
 > | - (empty list)                           |
 > |                                          |
@@ -143,8 +59,6 @@
 >
 > 🌎
 > </details>
-
-
 
 
 ### 🗄️ qoolixiloop's repositories
